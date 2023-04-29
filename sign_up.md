@@ -1,4 +1,5 @@
-User Log in to system with data entered while registration
-Email validation which is already retained in database
-Password matches to data entered while registration
+Registration new user allows with three required field
+Username should not be empty
+"@" key is obligatory to enter
+Unique password is chosen for new registration
 Redirection to Sign in page
